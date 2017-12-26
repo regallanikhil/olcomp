@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contest contestCode="sad">
+  <contestName>nikhil</contestName>
+  <noOfPrograms>2</noOfPrograms>
+  <contestDuration>20</contestDuration>
+  <startTime>2017-12-22T14:19</startTime>
+  <endTime>2017-12-22T14:40</endTime>
+  <contestDescription>eadad</contestDescription>
+  <contestRules>dasd</contestRules>
+<formatOutput>1</formatOutput><problem problemCode="1"><problemName>nikhil</problemName><problemDescription>asdsa</problemDescription><inputFormat>1234</inputFormat><outputFormat>sad</outputFormat><constraints>sadsadsad</constraints><sampleInput>1234</sampleInput><sampleOutput>sad</sampleOutput><TestCase><InputFile>Misc\sad1InputFile1.txt</InputFile><OutputFile>Misc\sad1OutputFile1.txt</OutputFile><TestCasePoints>1</TestCasePoints></TestCase><TestCase><InputFile>Misc\sad1InputFile2.txt</InputFile><OutputFile>Misc\sad1OutputFile2.txt</OutputFile><TestCasePoints>2</TestCasePoints></TestCase><TestCase><InputFile>Misc\sad1InputFile3.txt</InputFile><OutputFile>Misc\sad1OutputFile3.txt</OutputFile><TestCasePoints>3</TestCasePoints></TestCase></problem><problem problemCode="2"><problemName>nikhil2</problemName><problemDescription>das</problemDescription><inputFormat>123</inputFormat><outputFormat>das</outputFormat><constraints>adsa</constraints><sampleInput>123</sampleInput><sampleOutput>das</sampleOutput><TestCase><InputFile>Misc\sad2InputFile1.txt</InputFile><OutputFile>Misc\sad2OutputFile1.txt</OutputFile><TestCasePoints>1</TestCasePoints></TestCase><TestCase><InputFile>Misc\sad2InputFile2.txt</InputFile><OutputFile>Misc\sad2OutputFile2.txt</OutputFile><TestCasePoints>2</TestCasePoints></TestCase><TestCase><InputFile>Misc\sad2InputFile3.txt</InputFile><OutputFile>Misc\sad2OutputFile3.txt</OutputFile><TestCasePoints>3</TestCasePoints></TestCase></problem></contest>

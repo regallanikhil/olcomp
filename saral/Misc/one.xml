@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contest contestCode="one">
+  <contestName>nikkk</contestName>
+  <noOfPrograms>2</noOfPrograms>
+  <contestDuration>3</contestDuration>
+  <startTime>2017-12-22T11:50</startTime>
+  <endTime>2017-12-22T15:00</endTime>
+  <contestDescription>.</contestDescription>
+  <contestRules>.</contestRules>
+<formatOutput>1</formatOutput><problem problemCode="."><problemName>.</problemName><problemDescription>.</problemDescription><inputFormat/><outputFormat/><constraints/><sampleInput/><sampleOutput/><TestCase><InputFile>Misc\one.InputFile1.txt</InputFile><OutputFile>Misc\one.OutputFile1.txt</OutputFile><TestCasePoints>10</TestCasePoints></TestCase><TestCase><InputFile>Misc\one.InputFile2.txt</InputFile><OutputFile>Misc\one.OutputFile2.txt</OutputFile><TestCasePoints>20</TestCasePoints></TestCase></problem></contest>

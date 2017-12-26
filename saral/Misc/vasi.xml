@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contest contestCode="vasi">
+  <contestName>vasista</contestName>
+  <noOfPrograms>2</noOfPrograms>
+  <contestDuration>3</contestDuration>
+  <startTime>2017-12-22T15:55</startTime>
+  <endTime>2017-12-22T20:00</endTime>
+  <contestDescription>vasista;..;sp;..;is;..;sp;..;sad</contestDescription>
+  <contestRules>vasista;..;sp;..;should;..;sp;..;be;..;sp;..;happy</contestRules>
+<formatOutput>1</formatOutput><problem problemCode="12"><problemName>vin</problemName><problemDescription>say;..;sp;..;hello</problemDescription><inputFormat>2</inputFormat><outputFormat>hi</outputFormat><constraints/><sampleInput>1;..;nl;..;</sampleInput><sampleOutput>hello</sampleOutput><TestCase><InputFile>Misc\vasi12InputFile1.txt</InputFile><OutputFile>Misc\vasi12OutputFile1.txt</OutputFile><TestCasePoints>50</TestCasePoints></TestCase><TestCase><InputFile>Misc\vasi12InputFile2.txt</InputFile><OutputFile>Misc\vasi12OutputFile2.txt</OutputFile><TestCasePoints>500</TestCasePoints></TestCase></problem><problem problemCode="13"><problemName>thirteen</problemName><problemDescription>heho</problemDescription><inputFormat>3</inputFormat><outputFormat>3</outputFormat><constraints/><sampleInput>4</sampleInput><sampleOutput>4</sampleOutput><TestCase><InputFile>Misc\vasi13InputFile1.txt</InputFile><OutputFile>Misc\vasi13OutputFile1.txt</OutputFile><TestCasePoints>12</TestCasePoints></TestCase><TestCase><InputFile>Misc\vasi13InputFile2.txt</InputFile><OutputFile>Misc\vasi13OutputFile2.txt</OutputFile><TestCasePoints>38</TestCasePoints></TestCase></problem></contest>

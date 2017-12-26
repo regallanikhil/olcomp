@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contest contestCode="n">
+  <contestName>nn</contestName>
+  <noOfPrograms>1</noOfPrograms>
+  <contestDuration>1</contestDuration>
+  <startTime>2017-12-20T18:55</startTime>
+  <endTime>2017-12-20T22:00</endTime>
+  <contestDescription>hello;..;sp;..;world;..;sp;..;program</contestDescription>
+  <contestRules>no;..;sp;..;rules</contestRules>
+<formatOutput>1</formatOutput><problem problemCode="hw"><problemName>hw</problemName><problemDescription>hello;..;sp;..;world;..;sp;..;program</problemDescription><inputFormat/><outputFormat>print;..;sp;..;hello;..;sp;..;world</outputFormat><constraints/><sampleInput/><sampleOutput>hello</sampleOutput><TestCase><InputFile>Misc\nhwInputFile1.txt</InputFile><OutputFile>Misc\nhwOutputFile1.txt</OutputFile><TestCasePoints>100</TestCasePoints></TestCase></problem></contest>
